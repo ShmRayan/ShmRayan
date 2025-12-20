@@ -20,9 +20,9 @@ If you’re working on a cool project or know about an opportunity, feel free to
 ## Skills
 
 
-**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, HTML/CSS
-**Frameworks & Libraries:** .NET Core, ASP.NET, Blazor, React, Angular, Node.js, Flask, Pandas, PyTorch
-**Tools & Platforms:** Git, Docker, GitLab CI/CD, Azure (Entra ID), SQL Server, Jira, Power BI
+**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, HTML/CSS<br>
+**Frameworks & Libraries:** .NET Core, ASP.NET, Blazor, React, Angular, Node.js, Flask, Pandas, PyTorch<br>
+**Tools & Platforms:** Git, Docker, GitLab CI/CD, Azure (Entra ID), SQL Server, Jira, Power BI<br>
 **Spoken Languages:** English & French (Bilingual)
 
 ---
