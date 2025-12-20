@@ -14,6 +14,7 @@ I am currently looking for internship roles in:
 * Data Analysis
 
 If you’re working on a cool project or know about an opportunity, feel free to reach out
+
 ---
 
 ## Skills
