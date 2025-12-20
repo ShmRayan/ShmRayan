@@ -1,40 +1,33 @@
 # Rayan Saadani Hassani
 
-I'm a **Software Engineering Student** at the **University of Ottawa**.  
-Driven by curiosity, I enjoy building seamless digital experiences and solving complex problems through clean and efficient code.
+I am a Software Engineering student at the University of Ottawa, consistently recognized on the Dean's List for academic excellence. I am passionate about bridging the gap between software development and data insights to build efficient, scalable solutions.
 
 ---
 
-### 📌 Open to Summer 2026 Internships
+## Open to Summer 2026 Internships
 
-I am actively looking for internship roles in:
+I am currently looking for internship roles in:
 
-*   **Software Engineering**
-*   **Full-Stack Development**
-*   **Data Science / Machine Learning**
+* Software Engineering
+* Full Stack Development
+* Data Science & Machine Learning
+* Data Analysis
 
-If you're working on interesting challenges or have an opportunity to discuss, feel free to reach out!
-
----
-
-### 🛠 Skills
-
-*   **Languages:** Python, Java, C#, JavaScript, TypeScript, SQL
-*   **Frontend:** React, Tailwind CSS, Bootstrap, HTML/CSS
-*   **Backend:** Node.js, Express, Flask
-*   **Tools & Cloud:** Docker, AWS, Git, VS Code
+If you are working on interesting problems or know of any opportunities, feel free to reach out.
 
 ---
 
-### 📂 Featured Projects
+## Skills
 
-*   [**VORA Archive**](https://shmrayan.github.io/Vora/) – A premium e-commerce platform featuring glassmorphism effects and a secure vault interaction (React, Tailwind).
-*   [**FitRay Fitness**](https://shmrayan.github.io/FitRay/) – A full-stack coaching app with personalized workout tracking and JWT authentication.
+**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, HTML/CSS
+**Frameworks & Libraries:** .NET Core, ASP.NET, Blazor, React, Angular, Node.js, Flask, Pandas, PyTorch, Selenium
+**Tools & Platforms:** Git, Docker, GitLab CI/CD, Azure (Entra ID), SQL Server, Jira, Power BI, Linux
+**Spoken Languages:** English, French (Bilingual)
 
 ---
 
-### 📬 Contact
+## Contact
 
-*   **Portfolio:** [shmrayan.github.io](https://shmrayan.github.io)
-*   **LinkedIn:** [linkedin.com/in/rayan-saadani-hassani](https://www.linkedin.com/in/rayan-saadani-hassani/)
-*   **Email:** [shmrayan@gmail.com](mailto:shmrayan@gmail.com)
+* [Portfolio Website](https://shmrayan.github.io)
+* [LinkedIn](https://www.linkedin.com/in/rayan-saadani-hassani/)
+* [Email](mailto:shmrayan@gmail.com)
