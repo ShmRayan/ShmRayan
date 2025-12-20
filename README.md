@@ -37,6 +37,6 @@ English & French (Bilingual)
 ## Contact
 
 
-*   **Portfolio:** [shmrayan.github.io](https://shmrayan.github.io)
-*   **LinkedIn:** [linkedin.com/in/rayan-saadani-hassani](https://www.linkedin.com/in/rayan-saadani-hassani/)
-*   **Email:** [shmrayan@gmail.com](mailto:shmrayan@gmail.com)
+**Portfolio:** [shmrayan.github.io](https://shmrayan.github.io)
+**LinkedIn:** [linkedin.com/in/rayan-saadani-hassani](https://www.linkedin.com/in/rayan-saadani-hassani/)
+**Email:** [shmrayan@gmail.com](mailto:shmrayan@gmail.com)
