@@ -1,6 +1,6 @@
 # Rayan Saadani Hassani
 
-I am a Software Engineering student at the University of Ottawa, consistently recognized on the Dean's List for academic excellence. I am passionate about bridging the gap between software development and data insights to build efficient, scalable solutions.
+I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance. I’m passionate about building innovative solutions and exploring the latest in AI and tech. I enjoy solving complex problems, learning new things, and collaborating on work where creativity, logic, and impact come together.
 
 ---
 
@@ -13,16 +13,15 @@ I am currently looking for internship roles in:
 * Data Science & Machine Learning
 * Data Analysis
 
-If you are working on interesting problems or know of any opportunities, feel free to reach out.
-
+If you’re working on a cool project or know about an opportunity, feel free to reach out
 ---
 
 ## Skills
 
 **Languages:** Python, Java, C#, JavaScript, TypeScript, SQL, HTML/CSS
-**Frameworks & Libraries:** .NET Core, ASP.NET, Blazor, React, Angular, Node.js, Flask, Pandas, PyTorch, Selenium
-**Tools & Platforms:** Git, Docker, GitLab CI/CD, Azure (Entra ID), SQL Server, Jira, Power BI, Linux
-**Spoken Languages:** English, French (Bilingual)
+**Frameworks & Libraries:** React, Angular, Node.js, .NET Core, ASP.NET, Blazor, Flask, Pandas, PyTorch
+**Tools & Platforms:** Git, Docker, GitLab CI/CD, Azure (Entra ID), Jira, Power BI
+**Spoken Languages:** English & French (Bilingual)
 
 ---
 
