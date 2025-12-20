@@ -19,7 +19,6 @@ If you’re working on a cool project or know about an opportunity, feel free to
 
 ## Skills
 
-
 **Programming Languages**  
 Python, Java, C#, JavaScript, TypeScript, SQL, HTML/CSS  
 
@@ -29,14 +28,10 @@ React, Angular, Node.js, .NET Core, ASP.NET, Blazor, Flask, Pandas, PyTorch
 **Tools & Platforms**  
 Git, Docker, GitLab CI/CD, Azure (Entra ID), Jira, Power BI  
 
-**Languages**  
-English & French (Bilingual)
-
 ---
 
 ## Contact
 
-
-**Portfolio:** [shmrayan.github.io](https://shmrayan.github.io)<br>
-**LinkedIn:** [linkedin.com/in/rayan-saadani-hassani](https://www.linkedin.com/in/rayan-saadani-hassani/)<br>
-**Email:** [shmrayan@gmail.com](mailto:shmrayan@gmail.com)
+* [Portfolio Website](https://shmrayan.github.io)
+* [LinkedIn](https://www.linkedin.com/in/rayan-saadani-hassani/)
+* [Email](mailto:shmrayan@gmail.com)
