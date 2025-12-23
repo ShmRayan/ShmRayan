@@ -101,8 +101,6 @@
   </tr>
 </table>
 
----
-
 ## 📫 Contact
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
