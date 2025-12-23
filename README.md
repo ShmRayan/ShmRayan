@@ -31,7 +31,7 @@
 
 ---
 
-## Skills
+## ⚡ Skills
 
 ### Core Stack
 <table>
@@ -101,9 +101,17 @@
   </tr>
 </table>
 
+<br>
+
+<!-- Section Stats Dynamiques (Réactivité) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShmRayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShmRayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
+</div>
+
 ---
 
-## Contact
+## 📫 Contact
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
