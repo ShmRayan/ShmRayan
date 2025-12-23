@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rayan%20Saadani%20Hassani&fontSize=80&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20uOttawa&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7028e4,100:e5b2ca&height=250&section=header&text=Rayan%20Saadani%20Hassani&fontSize=80&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20uOttawa&descAlignY=55&descSize=25)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A942FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
 </div>
 
 <br>
