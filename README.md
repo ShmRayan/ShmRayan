@@ -6,20 +6,27 @@
 
 <br>
 
-I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance. I’m passionate about building innovative solutions and exploring the latest in AI and tech. I enjoy solving complex problems, learning new things, and collaborating on work where creativity, logic, and impact come together.
+<div align="center">
+  
+  👋 **Hi there!** I am a **4th Year Software Engineering student** at the University of Ottawa, consistently recognized on the 🏆 **Dean's Honor List** for outstanding academic performance.
+  
+  I’m passionate about building **innovative solutions** and exploring the latest in **AI and Tech**. 
+  I enjoy solving complex problems 🧩, learning new things 📚, and collaborating on work where **creativity, logic, and impact** come together.
 
----
+</div>
 
-## Open to Summer 2026 Internships
+<br>
 
-I am currently looking for internship roles in:
-
-* Software Engineering
-* Full Stack Development
-* Data Science & Machine Learning
-* Data Analysis
-
-If you’re working on a cool project or know about an opportunity, feel free to reach out.
+> [!IMPORTANT]
+> ### 🎯 Open to Summer 2026 Internships
+> I am currently looking for internship roles in:
+> 
+> * 💻 **Software Engineering**
+> * 🌐 **Full Stack Development**
+> * 🤖 **Data Science & Machine Learning**
+> * 📊 **Data Analysis**
+>
+> *If you’re working on a cool project or know about an opportunity, feel free to reach out!*
 
 ---
 
