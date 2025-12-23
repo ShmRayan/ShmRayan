@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
+</div>
 # Rayan Saadani Hassani
 
 I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance. I’m passionate about building innovative solutions and exploring the latest in AI and tech. I enjoy solving complex problems, learning new things, and collaborating on work where creativity, logic, and impact come together.
