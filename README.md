@@ -68,10 +68,6 @@ If you’re working on a cool project or know about an opportunity, feel free to
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       <br>Docker
@@ -81,16 +77,12 @@ If you’re working on a cool project or know about an opportunity, feel free to
       <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
-      <br>GitLab CI
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
@@ -99,6 +91,20 @@ If you’re working on a cool project or know about an opportunity, feel free to
 
 ## Contact
 
-* [Portfolio Website](https://shmrayan.github.io)
-* [LinkedIn](https://www.linkedin.com/in/rayan-saadani-hassani/)
-* [Email](mailto:shmrayan@gmail.com)
+<div align="left">
+  <a href="https://shmrayan.me" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="45" alt="Website" />
+  </a>
+  
+  <img width="20" /> 
+
+  <a href="https://www.linkedin.com/in/rayan-saadani-hassani/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="45" alt="LinkedIn" />
+  </a>
+
+  <img width="20" /> 
+
+  <a href="mailto:shmrayan@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="45" alt="Gmail" />
+  </a>
+</div>
