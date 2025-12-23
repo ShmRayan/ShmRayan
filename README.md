@@ -90,8 +90,6 @@ If you’re working on a cool project or know about an opportunity, feel free to
 ---
 
 ## Contact
-
-## Contact
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
