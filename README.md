@@ -91,20 +91,21 @@ If you’re working on a cool project or know about an opportunity, feel free to
 
 ## Contact
 
+## Contact
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="45" alt="Website" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
   </a>
   
   <img width="20" /> 
 
   <a href="https://www.linkedin.com/in/rayan-saadani-hassani/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="45" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="45" alt="LinkedIn" />
   </a>
 
   <img width="20" /> 
 
   <a href="mailto:shmrayan@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="45" alt="Gmail" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
   </a>
 </div>
