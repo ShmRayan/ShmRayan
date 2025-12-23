@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  👋 Hi there! I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance.
+  Hi there! I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance.
   
   I’m passionate about building **innovative solutions** and exploring the latest in **AI and Tech**. 
   I enjoy solving complex problems, learning new things, and collaborating on work where creativity, logic, and impact come together.
