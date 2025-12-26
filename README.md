@@ -1,15 +1,25 @@
 # 🚀 Rayan Saadani Hassani
 **Software Engineering Student @ uOttawa | Full-Stack Developer**
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A942FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
+</div>
+
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-shmrayan.me-000?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
   </a>
+  
+  <img width="20" /> 
+
   <a href="https://www.linkedin.com/in/rayan-saadani-hassani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="45" alt="LinkedIn" />
   </a>
+
+  <img width="20" /> 
+
   <a href="mailto:shmrayan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
   </a>
 </div>
 
@@ -22,11 +32,11 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 4th-year Software Engineering student at the **University of Ottawa**, consistently recognized on the Dean's Honor List. I specialize in building scalable web applications and exploring the intersection of AI and Software Engineering.
+I am a 4th-year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List. I specialize in building scalable web applications and exploring the intersection of AI and Software Engineering.
 
 > [!IMPORTANT]
 > ### 🎯 Open to Summer 2026 Internships
-> I am actively seeking roles in **Software Engineering**, **Full Stack Development**, or **Data Science**.
+> I am actively seeking roles in **Software Engineering**, **Full Stack Development**, **Data Science & Machine Learning**, **Data Analysis**.
 > *If you're working on something cool, let's connect!*
 
 ---
