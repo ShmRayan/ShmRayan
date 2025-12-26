@@ -27,9 +27,6 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a 4th-year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List. I specialize in building scalable web applications and exploring the intersection of AI and Software Engineering.
-
 > [!IMPORTANT]
 > ### 🎯 Open to Summer 2026 Internships
 > I am actively seeking roles in **Software Engineering**, **Full Stack Development**, **Data Science & Machine Learning**, **Data Analysis**.
