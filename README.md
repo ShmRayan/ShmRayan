@@ -1,4 +1,4 @@
-# 🚀 Rayan Saadani Hassani
+# Rayan Saadani Hassani
 **Software Engineering Student @ uOttawa | Full-Stack Developer**
 
 <div align="center">
