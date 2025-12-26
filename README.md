@@ -1,11 +1,23 @@
 # Rayan Saadani Hassani
 **Software Engineering Student @ uOttawa | Full-Stack Developer**
 
-<p align="left">
-  <a href="https://shmrayan.me"><img src="https://img.shields.io/badge/Website-shmrayan.me-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rayan-saadani-hassani/"><img src="https://img.shields.io/badge/LinkedIn-Rayan-0077B5?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:shmrayan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="left">
+  <a href="https://shmrayan.me" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
+  </a>
+  
+  <img width="20" /> 
+
+  <a href="https://www.linkedin.com/in/rayan-saadani-hassani/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="45" alt="LinkedIn" />
+  </a>
+
+  <img width="20" /> 
+
+  <a href="mailto:shmrayan@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
+  </a>
+</div>
 
 <br>
 
@@ -91,22 +103,3 @@
     </td>
   </tr>
 </table>
-
-## Contact
-<div align="left">
-  <a href="https://shmrayan.me" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
-  </a>
-  
-  <img width="20" /> 
-
-  <a href="https://www.linkedin.com/in/rayan-saadani-hassani/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="45" alt="LinkedIn" />
-  </a>
-
-  <img width="20" /> 
-
-  <a href="mailto:shmrayan@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
-  </a>
-</div>
