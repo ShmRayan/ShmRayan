@@ -21,7 +21,7 @@
   <a href="mailto:shmrayan@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
   </a>
-</div>>
+</div>
 
 <br />
 
