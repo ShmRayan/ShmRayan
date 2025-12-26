@@ -1,20 +1,11 @@
-<!-- Bannière Cliquable vers ton site avec Texte BLANC -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7028e4,100:e5b2ca&height=250&section=header&text=Rayan%20Saadani%20Hassani&fontSize=80&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20uOttawa&descAlignY=55&descSize=25&fontColor=ffffff&descColor=ffffff)](https://shmrayan.me)
+# Rayan Saadani Hassani
+**Software Engineering Student @ uOttawa | Full-Stack Developer**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A942FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  
-  Hi there! I am a 4th Year Software Engineering student at the University of Ottawa, consistently recognized on the Dean's Honor List for outstanding academic performance.
-  
-  I’m passionate about building **innovative solutions** and exploring the latest in **AI and Tech**. 
-  I enjoy solving complex problems, learning new things, and collaborating on work where creativity, logic, and impact come together.
-
-</div>
+<p align="left">
+  <a href="https://shmrayan.me"><img src="https://img.shields.io/badge/Website-shmrayan.me-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rayan-saadani-hassani/"><img src="https://img.shields.io/badge/LinkedIn-Rayan-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:shmrayan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br>
 
@@ -22,16 +13,16 @@
 > ### 🎯 Open to Summer 2026 Internships
 > I am currently looking for internship roles in:
 > 
-> * 💻 **Software Engineering**
-> * 🌐 **Full Stack Development**
-> * 🤖 **Data Science & Machine Learning**
-> * 📊 **Data Analysis**
+> * **Software Engineering**
+> * **Full Stack Development**
+> * **Data Science & Machine Learning**
+> * **Data Analysis**
 >
 > *If you’re working on a cool project or know about an opportunity, feel free to reach out!*
 
 ---
 
-## ⚡ Skills
+## Skills
 
 ### Core Stack
 <table>
@@ -101,7 +92,7 @@
   </tr>
 </table>
 
-## 📫 Contact
+## Contact
 <div align="left">
   <a href="https://shmrayan.me" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
