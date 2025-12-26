@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A942FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Enthusiast;uOttawa+Dean's+List" alt="Typing SVG" />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://shmrayan.me" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" height="45" alt="Website" />
   </a>
