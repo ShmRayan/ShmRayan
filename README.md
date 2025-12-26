@@ -30,6 +30,7 @@
 > [!IMPORTANT]
 > ### 🎯 Open to Summer 2026 Internships
 > I am actively seeking roles in **Software Engineering**, **Full Stack Development**, **Data Science & Machine Learning**, **Data Analysis**.
+> 
 > *If you're working on something cool, let's connect!*
 
 ---
