@@ -22,32 +22,3 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png" height="45" alt="Email" />
   </a>
 </div>
-
-<br />
-
----
-
-### Skills
-
-<table>
-  <tr>
-    <td width="140"><b>Languages</b></td>
-    <td>TypeScript · Python · Java · C# · SQL</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React · Next.js · Tailwind</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>.NET · Node.js · FastAPI</td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td>LangGraph · RAG · LLM integration</td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>Docker · Azure · Git · Vercel</td>
-  </tr>
-</table>
