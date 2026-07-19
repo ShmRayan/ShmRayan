@@ -27,29 +27,11 @@
 
 ---
 
-### 🛠 Technical Skills
+### Technical Skills
 
-#### **Core Stack**
-<table>
-  <tr>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/><br />TypeScript</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/><br />JavaScript</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/><br />Python</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/><br />Java</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/><br />C#</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/><br />SQL</td>
-  </tr>
-</table>
-
-#### **Web & Cloud Engineering**
-<table>
-  <tr>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/><br />React</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/><br />Next.js</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40"/><br />.NET</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/><br />Node.js</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/><br />Docker</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/><br />Azure</td>
-    <td align="center" width="95"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/><br />Git</td>
-  </tr>
-</table>
+**Languages:** TypeScript, JavaScript, Python, Java, C#, SQL  
+**Frontend:** React, Next.js, Tailwind, Blazor  
+**Backend:** .NET / ASP.NET, Spring Boot, Node.js, FastAPI, REST APIs  
+**AI:** LLM integration, prompt engineering, LangGraph, RAG  
+**Cloud / DevOps:** Docker, GitLab CI/CD, Azure, Git, Vercel  
+**Data:** SQL Server, PostgreSQL, MySQL, Power BI
