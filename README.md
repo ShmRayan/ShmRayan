@@ -27,14 +27,6 @@
 
 ---
 
-### �ffffff/mail.png" height="45" alt="Email" />
-  </a>
-</div>
-
-<br />
-
----
-
 ### 🛠 Technical Skills
 
 #### **Core Stack**
